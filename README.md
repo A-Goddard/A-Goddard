@@ -1,12 +1,11 @@
 Hello, I'm A-Goddard
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I have recently completed my studies and have a deep passion for technology. I am committed to addressing intricate challenges.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/agoddarduk/)
 
 
 Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
